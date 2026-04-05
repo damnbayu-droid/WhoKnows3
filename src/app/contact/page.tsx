@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 import { Metadata } from 'next';
 import { Mail, Phone, MapPin } from 'lucide-react';
 import { ContactForm } from '@/components/forms/ContactForm';

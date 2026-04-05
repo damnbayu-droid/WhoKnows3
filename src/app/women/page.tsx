@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 import { Metadata } from 'next';
 import { ModelGrid } from '@/components/models/ModelCard';
 import { mockModels } from '@/lib/data';
